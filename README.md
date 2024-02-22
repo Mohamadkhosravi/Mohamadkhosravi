@@ -1,10 +1,9 @@
 ### Hi 
 I specialize in embedded systems programming, focusing on `C/C++` for microcontrollers. Passionate about meaningful experiences in embedded software development, always eager to learn and grow
 
-- 📎 How to reach me:  [ ALL Links](https://linktr.ee/mohammadkhosravi?utm_source=linktree_admin_share)
-- 📫 my Email: khosravimmd@gmail.com
-.
-  
+- 📎 How to reach me :  [ ALL Links](https://linktr.ee/mohammadkhosravi?utm_source=linktree_admin_share)
+- 📫 My Email address : khosravimmd@gmail.com
+
 <!--
 **Mohamadkhosravi/Mohamadkhosravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
