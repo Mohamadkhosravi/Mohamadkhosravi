@@ -1,7 +1,7 @@
 ### Hi 
 I specialize in embedded systems programming, focusing on `C/C++` for microcontrollers. Passionate about meaningful experiences in embedded software development, always eager to learn and grow
 
-- 📎 How to reach me :  [ ALL Links](https://linktr.ee/mohammadkhosravi?utm_source=linktree_admin_share)
+- 📎 How to reach me :  [Links](https://linktr.ee/mohammadkhosravi?utm_source=linktree_admin_share)
 - 📫 My Email address : khosravimmd@gmail.com
 
 <!--
