@@ -3,6 +3,8 @@ I work in embedded systems programming, focusing on `C/C++` for microcontrollers
 - 📎 How to reach me :  [Links](https://linktr.ee/mohammadkhosravi?utm_source=linktree_admin_share)
 - 📫 My Email address : khosravimmd@gmail.com
 
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=c,cplusplus,python,rust,arm,arduino,stmicroelectronics,espressif,platformio,kicad,altiumdesigner,raspberrypi,qt,linux,git&theme=dark)
+
 <!--
 **Mohamadkhosravi/Mohamadkhosravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
