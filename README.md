@@ -5,7 +5,7 @@ I work in embedded systems programming, focusing on `C/C++` for microcontrollers
 #
 <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=c,cplusplus,python,rust,arm,arduino,stmicroelectronics,espressif,platformio,kicad,altiumdesigner,raspberrypi,qt,linux,git&theme=light" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=c,cplusplus,python,rust,arm,arduino,stmicroelectronics,espressif,platformio,kicad,altiumdesigner,raspberrypi,qt,linux,git&theme=light"  width="800" height="50"/>
   </a>
 </p>
 
