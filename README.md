@@ -2,11 +2,11 @@
 <p align="center">
 <h1 align="center"> Hi 👋🏻 I'm Mohammad :) </h1>
 </p> 
-<h2 align="center">
+<h3 align="center">
 I work in embedded systems programming, focusing on C/C++ for microcontrollers. </p> 
 
 I love creating meaningful experiences in embedded software development .       </p> 
-</h2>
+</h3>
 
   - 📎 How to reach me :  [Links](https://linktr.ee/mohammadkhosravi?utm_source=linktree_admin_share)
   - 📫 My Email address : khosravimmd@gmail.com
