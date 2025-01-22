@@ -8,9 +8,6 @@ I work in embedded systems programming, focusing on C/C++ for microcontrollers. 
 I love creating meaningful experiences in embedded software development .       </p> 
 </h3>
 
-  - 📎 How to reach me :  [Links](https://linktr.ee/mohammadkhosravi?utm_source=linktree_admin_share)
-  - 📫 My Email address : khosravimmd@gmail.com
-
 
 <p align="center">
   <a href="#">
