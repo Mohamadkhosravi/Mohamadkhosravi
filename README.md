@@ -1,15 +1,24 @@
-### Hi 
-I work in embedded systems programming, focusing on `C/C++` for microcontrollers. I love creating meaningful experiences in embedded software development and am always excited to learn and grow.
-- 📎 How to reach me :  [Links](https://linktr.ee/mohammadkhosravi?utm_source=linktree_admin_share)
-- 📫 My Email address : khosravimmd@gmail.com
-#
+
+<p align="center">
+<h1 align="center"> Hi 👋🏻 I'm Mohammad :) </h1>
+</p> 
+<h2 align="center">
+I work in embedded systems programming, focusing on C/C++ for microcontrollers. </p> 
+
+I love creating meaningful experiences in embedded software development .       </p> 
+</h2>
+
+  - 📎 How to reach me :  [Links](https://linktr.ee/mohammadkhosravi?utm_source=linktree_admin_share)
+  - 📫 My Email address : khosravimmd@gmail.com
+
+
 <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=c,cplusplus,python,rust,arm,arduino,stmicroelectronics,espressif,platformio,kicad,altiumdesigner,raspberrypi,qt,linux,git&theme=light"  width="600" height="50"/>
+    <img src="https://simpleskill.icons.workers.dev/svg?i=c,cplusplus,python,rust,arm,arduino,stmicroelectronics,espressif,platformio,kicad,altiumdesigner,raspberrypi,qt,linux,git"  width="600" height="50"/>
   </a>
 </p>
 
-
+ 
 <!--
 **Mohamadkhosravi/Mohamadkhosravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
