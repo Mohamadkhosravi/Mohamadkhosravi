@@ -3,7 +3,7 @@
 <h1 align="center"> Hi there 👋🏻 I'm Mohammad! </h1>
 </p> 
 <h3 align="center">
-An embedded systems programmer specializing in C/C++ for microcontrollers, passionate about crafting efficient and secure software. Always eager to learn, grow, and tackle new challenges in real-time systems and embedded development.
+Embedded systems programmer navigating the world of hardware and software.  
 </h3>
 
 
