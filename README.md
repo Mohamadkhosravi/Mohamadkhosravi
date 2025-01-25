@@ -1,11 +1,9 @@
 
 <p align="center">
-<h1 align="center"> Hi 👋🏻 I'm Mohammad :) </h1>
+<h1 align="center"> Hi there 👋🏻 I'm Mohammad! </h1>
 </p> 
 <h3 align="center">
-I work in embedded systems programming, focusing on C/C++ for microcontrollers. </p> 
-
-I love creating meaningful experiences in embedded software development .       </p> 
+An embedded systems programmer specializing in C/C++ for microcontrollers, passionate about crafting efficient and secure software. Always eager to learn, grow, and tackle new challenges in real-time systems and embedded development.
 </h3>
 
 
