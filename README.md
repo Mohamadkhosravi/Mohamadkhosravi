@@ -5,12 +5,14 @@
 <h3 align="center">
 Embedded systems programmer navigating the world of hardware and software.  
 </h3>
-
-
 <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=c,cplusplus,python,rust,arm,arduino,stmicroelectronics,espressif,platformio,kicad,altiumdesigner,raspberrypi,qt,linux,git"  width="600" height="50"/>
-  </a>
+    <p align="center">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=c,cplusplus,python,rust" height="35" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=arm,arduino,stmicroelectronics,espressif,platformio,kicad" height="35" />
+  <img src= "Altium Designer Symbol SVG.svg"height="35"/>
+  <img src="https://simpleskill.icons.workers.dev/svg?i=raspberrypi,qt,linux,git" height="35" />
+</p>
 </p>
 
  
