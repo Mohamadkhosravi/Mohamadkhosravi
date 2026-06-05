@@ -5,7 +5,7 @@
 #### I design embedded systems that bridge software and hardware with a focus on efficient, low-level programming and reliable system design.
 #
 
-### MoveAZI studio  <img src="logo.svg" height="28" align="top" />     <a href="https://www.moveazi.com" target="_blank"> <big><big>MoveAZI.com<big><big></a>
+### MoveAZI studio  <img src="logo.svg" height="30" align="top" />     <a href="https://www.moveazi.com" target="_blank"> <big><big>MoveAZI.com<big><big></a>
 #
  <p align="center">
   <img src="https://simpleskill.icons.workers.dev/svg?i=c,cplusplus,python,rust" height="40" />
