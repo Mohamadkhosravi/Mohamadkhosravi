@@ -4,12 +4,9 @@
 ### Embedded Systems Engineer | Firmware Developer | C/C++
 #### I design embedded systems that bridge software and hardware with a focus on efficient, low-level programming and reliable system design.
 #
-### MoveAZi Studio ,Where embedded ideas turn into real systems 
-<h3 align="center">
-<img src="logo.svg" height="30" />
-<a href="https://www.moveazi.com" target="_blank"> <sup><sup><big><big>moveazi.com<sup><sub></a>
-
----
+#### MoveAZi Studio ,Where embedded ideas turn into real systems   
+### <img src="logo.svg" height="30" align="top" />     <a href="https://www.moveazi.com" target="_blank"> <big><big>moveazi.com<big><big></a> 
+#
  <p align="center">
   <img src="https://simpleskill.icons.workers.dev/svg?i=c,cplusplus,python,rust" height="40" />
   <img src="https://simpleskill.icons.workers.dev/svg?i=arm,arduino,stmicroelectronics,espressif,platformio,kicad" height="40" />
@@ -17,7 +14,7 @@
   <img src="https://simpleskill.icons.workers.dev/svg?i=raspberrypi,qt,linux,git" height="40" />
 </p>
 
- 
+
 <!--
 **Mohamadkhosravi/Mohamadkhosravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
